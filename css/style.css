@@ -1,0 +1,21 @@
+
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+    transition: .4s;
+    border: none;
+    outline: none;
+}
+
+body {
+    font-family: sans-serif;
+}
